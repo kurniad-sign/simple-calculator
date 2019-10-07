@@ -23,7 +23,7 @@
 		"extends": "react-app"
 	},
 	"homepage": "https://kurniad-sign.github.io/simple-calculator",
-	"name": "agung-calculator",
+	"name": "simple-calculator",
 	"private": true,
 	"scripts": {
 		"build": "react-scripts build",
